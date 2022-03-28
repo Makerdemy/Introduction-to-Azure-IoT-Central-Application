@@ -1,0 +1,7 @@
+Connection String generator : 
+
+https://dpsgen.z8.web.core.windows.net/
+
+Adafruit DHT library :
+
+https://pypi.org/project/Adafruit-DHT

@@ -1,0 +1,8 @@
+Azure Pricing :
+
+https://azure.microsoft.com/en-in/pricing/free-services/
+
+Azure Pricing By product :
+
+https://azure.microsoft.com/en-in/pricing/#product-pricing
+

@@ -1,0 +1,11 @@
+Azure IoT Python SDK :
+
+https://github.com/Azure/azure-iot-sdk-python
+
+Remotely Access Raspberry Pi 4 through laptop using SSH & VNC :
+
+https://www.youtube.com/watch?v=V4gCtw9tvYY
+
+Installing Python3 and pip on Raspberry Pi 4 :
+
+https://www.pantechsolutions.net/installing-library-packages-in-raspberry-pi

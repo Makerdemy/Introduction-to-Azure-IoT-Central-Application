@@ -1,0 +1,7 @@
+Azure IoT Central pricing :
+
+https://azure.microsoft.com/en-in/pricing/details/iot-central/
+
+Azure pricing calculator :
+
+https://azure.microsoft.com/en-in/pricing/calculator/

@@ -1,0 +1,7 @@
+Raspberry Pi online simulator :
+
+https://azure-samples.github.io/raspberry-pi-web-simulator/
+
+Connection string generator :
+
+https://dpsgen.z8.web.core.windows.net/
